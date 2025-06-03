@@ -1,0 +1,28 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Data file
+data.json
+
+# Environment files
+.env
+.venv/
+venv/
+ENV/
+env/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test output
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/

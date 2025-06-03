@@ -1,0 +1,28 @@
+{
+    "habits": [
+        {
+            "name": "Workout",
+            "streak": 1,
+            "last_completed": "03/06/2025",
+            "created": "13/05/2025"
+        },
+        {
+            "name": "Learn Python",
+            "streak": 1,
+            "last_completed": "03/06/2025",
+            "created": "13/05/2025"
+        },
+        {
+            "name": "Coding project",
+            "streak": 1,
+            "last_completed": "16/05/2025",
+            "created": "13/05/2025"
+        },
+        {
+            "name": "Evening learning log",
+            "streak": 0,
+            "last_completed": null,
+            "created": "13/05/2025"
+        }
+    ]
+}
